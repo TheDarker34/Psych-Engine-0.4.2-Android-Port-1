@@ -1,0 +1,58 @@
+{
+	"storyName": "Vs Neighbors",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Hello-Again",
+			"edd",
+			[
+				0,
+				153,
+				53
+			]
+		],
+		[
+			"Numero-uno",
+			"eduardo",
+			[
+				0,
+				153,
+				113
+			]
+		],
+		[
+			"You're-Right",
+			"jon",
+			[
+				0,
+				113,
+				173
+			]
+		],
+		[
+			"Confusion",
+			"mark",
+			[
+				106,
+				73,
+				193
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "vsneighbores-enragedartist"
+}
