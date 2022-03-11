@@ -1,0 +1,89 @@
+{
+	"position": [
+		110,
+		30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "jon_dia",
+	"animations": [
+		{
+			"loop_name": "jon happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jon happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jon oh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jon oh",
+			"anim": "oh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jon relief",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jon relief",
+			"anim": "relief",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jon sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jon sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jon unamused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jon unamused",
+			"anim": "unamused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jon upset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jon upset",
+			"anim": "upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

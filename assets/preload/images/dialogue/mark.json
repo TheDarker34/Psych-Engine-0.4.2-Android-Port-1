@@ -1,0 +1,76 @@
+{
+	"position": [
+		120,
+		30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "mark_dia",
+	"animations": [
+		{
+			"loop_name": "mark challenging",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mark challenging",
+			"anim": "challenging",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "mark mocking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mark mocking",
+			"anim": "mocking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "mark pity",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mark pity",
+			"anim": "pity",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "mark sassy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mark sassy",
+			"anim": "sassy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "mark surprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mark surprised",
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

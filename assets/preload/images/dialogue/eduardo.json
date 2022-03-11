@@ -1,0 +1,89 @@
+{
+	"position": [
+		100,
+		10
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "edu_dia",
+	"animations": [
+		{
+			"loop_name": "edu angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "edu angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "edu cocky",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "edu cocky",
+			"anim": "cocky",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "edu glare",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "edu glare",
+			"anim": "glare",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "edu shock",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "edu shock",
+			"anim": "shock",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "edu stoic",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "edu stoic",
+			"anim": "stoic",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "edu sus",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "edu sus",
+			"anim": "sus",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
