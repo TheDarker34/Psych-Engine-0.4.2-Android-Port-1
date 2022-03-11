@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "sassy",
+			"text": "Hey there Little Twat...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "shocked",
+			"text": "bap?? >:O",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "sassy",
+			"text": "You heard me.\r",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "challenging",
+			"text": "Anyways, you've sang with everyone. Is it my turn now or what?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "psh",
+			"text": "beep beep ski bap -_-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "surprised",
+			"text": "You don't wanna battle against me? Why is that?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "bruh",
+			"text": "Bap.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "mocking",
+			"text": "Awn...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "mocking",
+			"text": "I seem to mean for you to handle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "pity",
+			"text": "Ha, ha, ha! You're funny and quite ridiculous.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "angry",
+			"text": "... (This motherf-)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "sassy",
+			"text": "?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "bummed",
+			"text": "Bop bap -_-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "sassy",
+			"text": "C'mon now we starting or what? I have the perfect track for this.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "sassy",
+			"text": "You don't mind a little classic trap, do you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		},
+		{
+			"expression": "confused",
+			"text": "?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "challenging",
+			"text": "Good.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mark"
+		}
+	]
+}
