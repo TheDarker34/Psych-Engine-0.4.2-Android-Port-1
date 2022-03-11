@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.155,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "stoic",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "Are you a new loser that joined those?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Bop! >:("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "No? I see well-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "tongue",
+			"text": "Beep bop bap :P"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "glare",
+			"text": "... -_-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "cat",
+			"text": "Beep skee :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "sus",
+			"text": "Why do you want to rap rattle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Bap bop? >:O"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "What did you say?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "Bap bop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "sus",
+			"text": "I'm not afraid I'll lose.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "glare",
+			"text": "I can beat all of you if need be."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "I'm numero uno after all. >:]"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "tongue",
+			"text": "Skap Bup bop >:)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "You're numero uno?? "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "glare",
+			"text": "In your dreams, cabron."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "beep bap ski dop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Edd isn't better than me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eduardo",
+			"boxState": "normal",
+			"expression": "glare",
+			"text": "I'll show you."
+		},
+		{
+			"speed": 0.145,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "shit",
+			"text": "bap..."
+		}
+	]
+}

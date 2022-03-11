@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "eduardo",
+		"player3": null,
+		"events": [
+			[
+				2461.53846153846,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				2461.53846153846,
+				[
+					[
+						"Move arrows",
+						"3",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "void",
+		"bpm": 195,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Numero-Uno"
+	}
+}
