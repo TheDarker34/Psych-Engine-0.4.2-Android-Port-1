@@ -1,0 +1,159 @@
+{
+	"dialogue": [
+		{
+			"expression": "upset",
+			"text": "Beep??? :(",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "sad",
+			"text": "... Yeah, I'm fine...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "worried",
+			"text": "bap-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "upset",
+			"text": "What's it to ya??",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "offended",
+			"text": "Skeep bap? >:O",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "sad",
+			"text": "*Looks at Eduardo then back at Boyfriend*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "unamused",
+			"text": "... I can be as bad as him don't understimate me-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "nervous",
+			"text": "bop beep-\r",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "unamused",
+			"text": "Are you just here to battle all of us? What's with that?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "upset",
+			"text": "Beep ska doop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "oh",
+			"text": "Oh...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "sad",
+			"text": "You just want to have fun...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "oh",
+			"text": "I'm sorry, was I too rude-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "cat",
+			"text": "bop bop! :)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "oh",
+			"text": "No?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "cat",
+			"text": "Bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "happy",
+			"text": "Alright. I can sing with you but I don't promise to be good..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "oh",
+			"text": "As you can hear I have a lot of voice cracks.. I'll try my best.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "cat",
+			"text": "Skee bap beep ski do.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "relief",
+			"text": "If you say so.. I'll trust you..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "cat",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-s"
+		},
+		{
+			"expression": "happy",
+			"text": "Okay, Let's give this a try..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jon"
+		
+		}
+	]
+}
