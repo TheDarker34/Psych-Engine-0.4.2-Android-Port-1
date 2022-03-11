@@ -1,0 +1,9 @@
+Set value1 from 1 to 100 to arrow move 
+It depends on the number you choose 
+alone you don't have the most of the maximum
+value1 is X
+
+Set value2 from 1 to 100 to arrow move 
+It depends on the number you choose 
+alone you don't have the most of the maximum
+value2 is Y
