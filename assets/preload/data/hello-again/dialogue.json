@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"expression": "annoyed",
+			"text": "Hello Boyfriend...",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.05
+		},
+		{
+			"expression": "worried",
+			"text": "Bap bop skee beep? :(",
+			"boxState": "normal",
+			"portrait": "bf-s",
+			"speed": 0.05
+		},
+		{
+			"expression": "annoyed",
+			"text": "I'm fine.",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.05
+		},
+		{
+			"expression": "ugh",
+			"text": "Our neighbors can just get really into our\\nbusiness for no reason.",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.05
+		},
+		{
+			"expression": "bummed",
+			"text": "Boop...",
+			"boxState": "normal",
+			"portrait": "bf-s",
+			"speed": 0.05
+		},
+		{
+			"expression": "ugh",
+			"text": "Yeah...",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.05
+		},
+		{
+			"expression": "curious",
+			"text": "Anyways, doesn't matter. Why did you come\\nhere again?",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.05
+		},
+		{
+			"expression": "cat",
+			"text": "Beep bop ska do beep",
+			"boxState": "normal",
+			"portrait": "bf-s",
+			"speed": 0.05
+		},
+		{
+			"expression": "curious",
+			"text": "You came here to check on us?",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.05
+		},
+		{
+			"expression": "awn",
+			"text": "That's nice of you, sorry I'm not in the best\\nmood...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Edd"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "cat",
+			"text": "beep bop :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "edd",
+			"boxState": "normal",
+			"expression": "awn",
+			"text": "Well it was nice to see you and your girlfriend again but, you better go before-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "edd",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "EDUARDOOOOO..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "edd",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "gets onto you too.. -_-''"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Beep bap? :("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "edd",
+			"boxState": "normal",
+			"expression": "curious",
+			"text": "Another rap battle? Listen Boyfriend I don't know if today is the day for that really..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-s",
+			"boxState": "normal",
+			"expression": "please",
+			"text": "beeeeeeeep :("
+		},
+		{
+			"speed": 0.115,
+			"portrait": "edd",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "sigh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "edd",
+			"boxState": "normal",
+			"expression": "awn",
+			"text": "Alright buddy... I'll try my best.\\n"
+		}
+	]
+}
